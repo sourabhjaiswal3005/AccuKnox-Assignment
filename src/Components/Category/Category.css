@@ -1,0 +1,15 @@
+.category{
+  
+  padding: 5px;
+} 
+.cat-heading{
+  margin-bottom: 5px;
+
+}
+
+.widget-box{
+  flex-wrap: wrap; 
+ display: flex;
+  
+
+}
